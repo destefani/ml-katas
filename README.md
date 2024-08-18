@@ -1,2 +1,2 @@
-# ml-katas
-A set of Katas for ML engineering practice
+# Machine Learning Katas
+A set of Katas for Machine Learning engineering practice.
